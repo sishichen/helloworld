@@ -1,5 +1,7 @@
 # How To Setup Ruby on Rails with Postgres
 
+
+
 ## 1. Init project
 在本機端，我們無需安裝任何的 ruby 環境，我們只需要透過 docker hub 上提供的image，就可以幫助我們產生專案 source code
 
